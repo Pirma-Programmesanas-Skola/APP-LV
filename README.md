@@ -1,9 +1,3 @@
----
-layout: home
-title: MIT App Inventor
-permalink: /
----
-
 MIT App Inventor ir platforma, kas ļauj izveidot mobilo lietotņu prototipus un izstrādāt mobilās lietotnes, neprasot no lietotājiem plašas programmēšanas zināšanas. Tā ir izveidota Masičūsetsas Tehnoloģiju institūta (MIT) un ir paredzēta gan jaunajiem, gan pieredzējušiem lietotņu izstrādātājiem.
 
 Šī platforma nodrošina vizuālu lietotņu izstrādes vidi, kur lietotāji var izmantot bloku programmu, lai izveidotu savas lietotnes. Bloku programmai ir intuitīvs un viegli saprotams saskarsmes veids, izmantojot vizuālus blokus un elementus, kuriem var pievienot darbības un funkcionalitāti.
