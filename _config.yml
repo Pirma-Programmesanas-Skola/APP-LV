@@ -1,15 +1,15 @@
 # Configurations
-title: App Inventor
+title: MIT App Inventor
 longtitle: PPS MIT App Inventor notes
 author: Veronika Lohmanova
 email: hellofulcrum101@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  PPS MIT App Inventor notes.
 
 version: 1.0
 gitbook_version: 3.2.3
 
-url: "https://pirma-programmesanas-skola.github.io"
+url: "https://pps.fulcrum.id.lv"
 baseurl: "/"
 rss: RSS
 
