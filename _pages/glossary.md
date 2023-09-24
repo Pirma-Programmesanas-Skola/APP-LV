@@ -1,5 +1,5 @@
 ---
-title: MIT App Inventor galvenas sadaļas
+title: Galvenas sadaļas
 author: Veronika Lohmanova
 date: 2023-09-24
 category: glossary
