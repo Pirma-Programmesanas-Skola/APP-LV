@@ -1,7 +1,7 @@
 ---
 title: 3 - Space Invaders
 author: Veronika Lohmanova
-date: 2023-08-10
+date: 2023-10-08
 category: projects
 layout: post
 ---
